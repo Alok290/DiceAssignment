@@ -47,6 +47,3 @@ Contributions are welcome. Please follow the standard workflow for contributing 
 4. Push to your branch.
 5. Submit a pull request.
 
-
-
-**Note**: This README is a template and should be customized with actual data relevant to the Dice Weather Application.
